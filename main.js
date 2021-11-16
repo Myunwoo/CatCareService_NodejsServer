@@ -22,11 +22,11 @@ app.listen(3000, function(){
 })
 
 const connection = mysql.createConnection({
-    host: "127.0.0.1",
-    user: "IHW",
-    database: "UserInfo",
-    password: "mx6733mx",
-    port: 3306
+    //host: "127.0.0.1",
+    //user: "myUserName",
+    //database: "myDBName",
+    //password: "myPassword",
+    //port: 3306
 });
 
 //회원가입
