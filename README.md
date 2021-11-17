@@ -1,7 +1,15 @@
 # CatCareService_NodejsServer
 
+> IoT Device를 활용하여 반려요 양육의 솔루션을 제공하는 어플리케이션
+> 반려묘의 하루 단위 데이터를 그래프와 텍스트 뷰를 통해 표시
+> 달력 기능을 통해 양육 일정 관리를 편하게!
+> 분석 화면을 통해 일, 월, 연별 반려묘 데이터 변화량 파악
+
+## 백엔드 기능
+
 + Node.js를 활용하여 어플리케이션을 위핸 백엔드를 구현
 + 안드로이드, iOS와 http 통신을 통해 데이터 송,수신
++ artillery.io를 활용한 url 과부하 테스트로 주요 시나리오 지연속도 평균 100ms 미만
 
 
 ![1](https://user-images.githubusercontent.com/63415602/142137609-7abe7b8d-d988-4931-acde-aa4a96f9358e.PNG)
