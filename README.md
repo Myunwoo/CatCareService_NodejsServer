@@ -1,5 +1,7 @@
 # CatCareService_NodejsServer
 
++ Node.js를 활용하여 어플리케이션을 위핸 백엔드를 구현
++ 안드로이드, iOS와 http 통신을 통해 데이터 송,수신
 
 
 ![1](https://user-images.githubusercontent.com/63415602/142137609-7abe7b8d-d988-4931-acde-aa4a96f9358e.PNG)
